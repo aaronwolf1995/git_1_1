@@ -1,0 +1,4 @@
+a <- matrix(1:12, 3, 4)
+b <- matrix(-1:-12, 3, 4)
+x=cbind(a,b)
+print(x)

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589510101317.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4262694695",
+    "id" : "64D45FDA",
+    "lastKnownWriteTime" : 1589521450,
+    "last_content_update" : 1589521450545,
+    "path" : "D:/onedrive_personal/OneDrive/桌面/202005_diabetes_datamining/00_datacleaning.R",
+    "project_path" : "00_datacleaning.R",
+    "properties" : {
+        "cursorPosition" : "58,0",
+        "scrollLine" : "48",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
